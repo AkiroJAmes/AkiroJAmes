@@ -1,7 +1,4 @@
-My name is 明朗 / Akiro, I go by the username Akarui.
-I'm interested in pixel art and game development.
-I'm a student, currently learning how to live my life to the fullest.
-My GitHub will hopefully be filled with my projects and future projects.
+Learning to fail; Learning from mistakes
 
 <!---
 AkiroJAmes/AkiroJAmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
