@@ -1,4 +1,4 @@
-Learning to fail; Learning from mistakes
+Amongus
 
 <!---
 AkiroJAmes/AkiroJAmes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
